@@ -41,8 +41,8 @@ For files required for each galaxy, we include an example for **NGC 7496**.
 - **Above 5σ color dispersion:** `population3_ngc7496.csv`  
 
 ### Color Dispersion Curve Parameters for NGC 7496  
-- **3σ dispersion curve parameters:** `Coef_dispersion_color_curve0_3sigma.csv`  
-- **5σ dispersion curve parameters:** `Coef_dispersion_color_curve0_5sigma.csv`  
+- **3σ color dispersion curve parameters:** `Coef_dispersion_color_curve0_3sigma.csv`  
+- **5σ color dispersion curve parameters:** `Coef_dispersion_color_curve0_5sigma.csv`  
 
 ### Detection Limits:  
 - **F335M and F300M 5σ detection limits** (computed using randomly positioned apertures, as explained in *Rodriguez et al. 2025*):  
